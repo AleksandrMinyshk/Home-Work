@@ -12,7 +12,7 @@ public class DogTester {
         Husky.color="white";
         Husky.sleep();
 
-        HWclass11.Dog Bulldog=new Dog();
+        Dog Bulldog=new Dog();
         Bulldog.name="Max";
         Bulldog.breed="Bulldog";
         Bulldog.color="Black";
@@ -20,7 +20,7 @@ public class DogTester {
         Bulldog.weight=50;
         Bulldog.bark();
 
-        HWclass11.Dog Labrador=new Dog();
+        Dog Labrador=new Dog();
         Labrador.name="Cooper";
         Labrador.breed="Labrador";
         Labrador.color="Brown";
