@@ -1,6 +1,5 @@
 package HWclass26;
 
-import HomeWork.HWclass26.Shape;
 
 // Circle.java
 public class Circle implements Shape {

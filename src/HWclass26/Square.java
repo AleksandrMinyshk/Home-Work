@@ -1,6 +1,5 @@
 package HWclass26;
 
-import HomeWork.HWclass26.Shape;
 
 public class Square implements Shape {
     // Square.java
